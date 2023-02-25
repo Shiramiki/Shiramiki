@@ -1,0 +1,5 @@
+#!/bin/bash
+git add .
+git commit -m "Rachel's commit"
+echo "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"
+git push
