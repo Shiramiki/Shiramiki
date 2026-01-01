@@ -5,16 +5,16 @@ I’m a **Computer Science student** and aspiring software engineer interested i
 I enjoy learning step by step, experimenting with projects, and growing both technically and personally.
 
 ---
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiramiki&show_icons=true)
 
 
 ---
 
-## 🏆 GitHub Trophies-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shiramiki)
+## 🏆 GitHub Trophies
+
+
+
 
 ---
 
