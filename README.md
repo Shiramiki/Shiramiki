@@ -14,15 +14,6 @@ I enjoy learning step by step, experimenting with projects, and growing both tec
 
 ---
 
-## 🌐 Socials
-> (Add only what you actually use)
-
-- GitHub: https://github.com/yourusername  
-- LinkedIn: https://linkedin.com/in/yourusername  
-- Email: your.email@example.com  
-
----
-
 ## 💻 Tech Stack
 
 **Languages**
@@ -62,17 +53,14 @@ I enjoy learning step by step, experimenting with projects, and growing both tec
 ---
 
 ## 📊 GitHub Stats
-<!-- You can enable these later -->
-<!--
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
--->
+
 
 ---
 
-## 🏆 GitHub Trophies
-<!--
+## 🏆 GitHub Trophies-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
--->
 
 ---
 
