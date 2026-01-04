@@ -1,6 +1,6 @@
 # 💫 Mbeiza Isooba
 
-Hi, I’m Mbeiza 👋  
+Hi, I’m Rachel👋  
 I’m a **Computer Science student** and aspiring software engineer interested in building **practical, real-world systems** using software, embedded systems, and data-driven approaches.  
 I enjoy learning step by step, experimenting with projects, and growing both technically and personally.
 
