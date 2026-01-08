@@ -1,4 +1,4 @@
-# 💫 Rachel Isooba
+#  Rachel Isooba
 
 Hi, I’m Rachel👋  
 I’m a **Computer Science student** and aspiring software engineer interested in building **practical, real-world systems** using software, embedded systems, and data-driven approaches.  
